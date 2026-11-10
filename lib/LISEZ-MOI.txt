@@ -1,0 +1,6 @@
+Placez ici le fichier sqlite-jdbc-3.45.3.0.jar téléchargé depuis :
+https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.3.0/sqlite-jdbc-3.45.3.0.jar
+
+Renommez-le en : sqlite-jdbc.jar
+
+Ou utilisez Maven (pom.xml) qui télécharge automatiquement la dépendance.
